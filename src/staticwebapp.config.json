@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "/*",
-      "redirect": "https://www.external-target.com",
+      "redirect": "https://linkerd.io",
       "statusCode": 301
     }
   ]
